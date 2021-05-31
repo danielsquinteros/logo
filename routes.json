@@ -1,0 +1,42 @@
+[
+    {
+          "id": 1,
+          "name": "Laguna Triángulo",
+          "ubication": "Parque Nacional Alerce Andino",
+          "address": {
+              "Country": "Chile",
+              "Region": "Región de Los Lagos",
+              "Pronvice": "Llanquihue",
+              "City": "Puerto Montt"
+          },
+          "distance": { 
+              "Kilometros": 4.5,
+              "Milla": 2.79
+          },
+          "difficulty": "Alta",
+          "time": 7200,
+          "age": 13,
+          "status": 1,
+          "img": "https://images.unsplash.com/photo-1600255531489-761f242f8672?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2475&q=80"
+  },
+  {
+          "id": 2,
+          "name": "Cerro Arcoiris",
+          "ubication": "La Junta",
+          "address": {
+              "Country": "Chile",
+              "Region": "Región de Los Lagos",
+              "Pronvice": "Llanquihue",
+              "City": "Cochamo"
+          },
+          "distance": { 
+              "Kilometros": 4.5,
+              "Milla": 2.79
+          },
+          "difficulty": "Alta",
+          "time": 7200,
+          "age": 13,
+          "status": 1,
+          "img": "https://images.unsplash.com/photo-1610128114197-485d933885c5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80"
+  }
+  ]
