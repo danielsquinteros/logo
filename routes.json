@@ -6,7 +6,7 @@
           "address": {
               "Country": "Chile",
               "Region": "Región de Los Lagos",
-              "Pronvice": "Llanquihue",
+              "Province": "Llanquihue",
               "City": "Puerto Montt"
           },
           "distance": { 
@@ -26,7 +26,7 @@
           "address": {
               "Country": "Chile",
               "Region": "Región de Los Lagos",
-              "Pronvice": "Llanquihue",
+              "Province": "Llanquihue",
               "City": "Cochamo"
           },
           "distance": { 
