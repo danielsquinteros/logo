@@ -17,7 +17,16 @@
           "time": 7200,
           "age": 13,
           "status": 1,
-          "img": "https://images.unsplash.com/photo-1508193638397-1c4234db14d8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"
+          "images":{
+            "1":{
+                "img": "https://images.unsplash.com/photo-1508193638397-1c4234db14d8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+                "description": "Imagen Naturaleza"
+            },
+            "2":{
+              "img": "https://images.unsplash.com/photo-1508193638397-1c4234db14d8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+              "description": "Imagen Naturaleza"
+          }
+        }
   },
   {
           "id": 2,
@@ -36,7 +45,16 @@
           "difficulty": "Alta",
           "time": 7200,
           "age": 13,
-          "status": 1,
-          "img": "https://images.unsplash.com/photo-1610128114197-485d933885c5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80"
+          "status": 0,
+          "images":{
+              "1":{
+                  "img": "https://images.unsplash.com/photo-1610128114197-485d933885c5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80",
+                  "description": "Imagen Naturaleza"
+              },
+              "2":{
+                "img": "https://images.unsplash.com/photo-1610128114197-485d933885c5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80",
+                "description": "Imagen Naturaleza"
+            }
+          }
   }
   ]
