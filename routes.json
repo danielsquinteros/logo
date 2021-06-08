@@ -30,8 +30,8 @@
                  "description": "Imagen Naturaleza"
             }
           ]
-  },
-  {
+    },
+    {
           "id": 2,
           "name": "Cerro Arcoiris",
           "ubication": "La Junta",
@@ -61,6 +61,70 @@
                 "img": "https://images.unsplash.com/photo-1508193638397-1c4234db14d8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
                  "description": "Imagen Naturaleza"
             }
-          ]
-  }
-  ]
+            ]
+    },
+    {
+        "id": 3,
+        "name": "La Paloma",
+        "ubication": "La Junta",
+        "address": {
+            "Country": "Chile",
+            "Region": "Región de Los Lagos",
+            "Province": "Llanquihue",
+            "City": "Cochamo"
+        },
+        "distance": { 
+            "Kilometros": 4.5,
+            "Milla": 2.79
+        },
+        "difficulty": "Alta",
+        "time": 7200,
+        "age": 13,
+        "status": 2,
+        "images":[
+        {
+            "id": 1,
+            "title":"img 1",
+            "img": "https://images.unsplash.com/photo-1546799828-fece823e07e5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=708&q=80",
+            "description": "Imagen Naturaleza"
+        },{
+            "id": 2,
+            "title":"img 1",
+            "img": "https://images.unsplash.com/photo-1508193638397-1c4234db14d8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+            "description": "Imagen Naturaleza"
+        }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Trinidad",
+        "ubication": "La Junta",
+        "address": {
+            "Country": "Chile",
+            "Region": "Región de Los Lagos",
+            "Province": "Llanquihue",
+            "City": "Cochamo"
+        },
+        "distance": { 
+            "Kilometros": 4.5,
+            "Milla": 2.79
+        },
+        "difficulty": "Alta",
+        "time": 7200,
+        "age": 13,
+        "status": 2,
+        "images":[
+        {
+            "id": 1,
+            "title":"img 1",
+            "img": "https://images.unsplash.com/photo-1478827387698-1527781a4887?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80",
+            "description": "Imagen Naturaleza"
+        },{
+            "id": 2,
+            "title":"img 1",
+            "img": "https://images.unsplash.com/photo-1508193638397-1c4234db14d8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+            "description": "Imagen Naturaleza"
+        }
+        ]
+    }
+]
