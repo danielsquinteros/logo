@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "Region": "Región de Los Lagos"
+    },
+    {
+        "id": 2,
+        "Region": "Región de Valparaiso"
+    },
+    {   
+        "id": 3,
+        "Region": "Región de Aysén"
+    }
+]
