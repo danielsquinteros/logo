@@ -1,7 +1,7 @@
 [
     {
           "id": 1,
-          "name": "Laguna Triángulo",
+          "name": "Laguna Triángulo", 
           "ubication": "Parque Nacional Alerce Andino",
           "address": {
               "Country": "Chile",
